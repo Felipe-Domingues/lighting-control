@@ -47,8 +47,8 @@ export function App() {
         }}
       ></div>
 
-      <h1>Lighting Controls</h1>
       <div className={styles.hug}>
+        <h1>Lighting Controls</h1>
         <div className={styles.controls}>
           <label htmlFor="hueControl">
             <Palette size={25} />
