@@ -37,7 +37,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 UI que simula um controlador de iluminação para dispositivos IOT.
 
-- [Acesse o projeto finalizado, online](https://lighting-control.vercel.app/)
+- [Acesse o projeto finalizado, online](https://lighting-control-felipe-domingues.vercel.app/)
 
 ## :memo: Licença
 
